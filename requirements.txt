@@ -1,0 +1,5 @@
+aiogram>=3.22,<4
+Pillow>=10.0
+python-dotenv>=1.0
+# нужен только для онлайн-БД (DATABASE_URL=postgresql://...), с SQLite не используется
+psycopg[binary,pool]>=3.2

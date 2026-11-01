@@ -1,0 +1,6 @@
+Шрифты, лежащие рядом (запасные цепочки для символов, которых нет в основном шрифте):
+- DejaVuSans / DejaVuSans-Bold: Bitstream Vera / DejaVu license (свободная).
+- FreeSans / FreeSansBold: GNU FreeFont, GPL с исключением для шрифтов.
+- unifont.otf: GNU Unifont, SIL OFL 1.1 / GPL с исключением для шрифтов.
+- NotoColorEmoji.ttf: Noto Color Emoji, SIL OFL 1.1.
+Порядок подстановки задаётся в bot/images/theme.py (font_chain).
